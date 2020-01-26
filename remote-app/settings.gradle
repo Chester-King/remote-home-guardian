@@ -1,0 +1,2 @@
+rootProject.name='Strzec'
+include ':app'
